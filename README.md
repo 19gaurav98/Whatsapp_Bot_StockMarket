@@ -1,4 +1,4 @@
-This a stockMarket BOT for whatsapp.
+This is a stockMarket BOT for whatsapp.
 Just type in the symbol this bot will return you the current price of that stock.
 
 To begin with
