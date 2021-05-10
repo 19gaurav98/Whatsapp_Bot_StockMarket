@@ -6,8 +6,8 @@ import os
 
 app = Flask(__name__)
 
-os.environ['TwILIO_ACCOUNT'] ='AC24ad229e790e5b46abeab20fd75c5256'
-os.environ['TWILIO_TOKEN'] ='a599880d5362d577da392b8081ac5ff7'
+os.environ['TwILIO_ACCOUNT'] ='###'               #please enter your twilio account number by login into twillio api
+os.environ['TWILIO_TOKEN'] ='####'                # please enter twilio token 
 
 ACCOUNT_ID=os.environ.get('TWILIO_ACCOUNT')
 print(ACCOUNT_ID)
