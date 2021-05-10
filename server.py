@@ -60,6 +60,3 @@ def webhook():
 if __name__ == "__main__":
     app.run()
 
-#AC24ad229e790e5b46abeab20fd75c5256
-#a599880d5362d577da392b8081ac5ff7
-#7839e4e51b673e6922c83fa97d4decba
